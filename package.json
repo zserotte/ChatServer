@@ -1,0 +1,26 @@
+{
+  "name": "module6-group-module6-472739",
+  "version": "1.0.0",
+  "description": "472739",
+  "main": "my-chat-server.js",
+  "dependencies": {
+    "bad-words": "^3.0.3",
+    "mime": "~1.6.0",
+    "nodemon": "^1.19.4",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cse330-fall-2019/module6-group-module6-472739.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cse330-fall-2019/module6-group-module6-472739/issues"
+  },
+  "homepage": "https://github.com/cse330-fall-2019/module6-group-module6-472739#readme"
+}
